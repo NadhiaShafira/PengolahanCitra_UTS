@@ -113,7 +113,7 @@ Proses:
 
 ## 📊 7. Evaluasi (IoU & Dice)
 
-![Evaluasi](output/evaluasi.png)
+![Evaluasi](https://github.com/NadhiaShafira/PengolahanCitra_UTS/blob/dc201062633898bbb327d1f1f6e24dd48d7bf579/ss_citra/K-Means%20Clustering.png)
 
 Evaluasi dilakukan dengan membandingkan hasil segmentasi dengan ground truth.
 
