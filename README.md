@@ -30,7 +30,7 @@ Proses yang dilakukan:
 
 ## 🎯 2. Thresholding
 
-![Threshold](output/threshold.png)
+![Threshold](https://github.com/NadhiaShafira/PengolahanCitra_UTS/blob/1a9dae24e6813a243473b385222dc038eeb1d431/ss_citra/Hasil%20Thresholding.png)
 
 Pada tahap ini dilakukan segmentasi menggunakan tiga metode:
 
