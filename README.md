@@ -64,7 +64,7 @@ Metode ini mengambil area berdasarkan titik awal (*seed*).
 
 ## 🧩 4. Deteksi Tepi
 
-![Edge](output/edge.png)
+![Edge](https://github.com/NadhiaShafira/PengolahanCitra_UTS/blob/d7e857e48508b2225db6937d8584cea2cc369143/ss_citra/Deteksi%20Tepi.png)
 
 Digunakan untuk mendeteksi batas objek:
 
